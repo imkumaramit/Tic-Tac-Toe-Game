@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Game
 The Classic TIc Tac Toe Game in C++
 
-##SETUP
+## Setup
 To run this project, install it locally:
 
 ```
